@@ -26,9 +26,5 @@ int main()
         else
             printf("!!!! Value not found\n");
     }
-    // insertion(arr[100],size,search);
     return 0;
 }
-// int insertion(int arr[100],int size, int search)
-// {
-// }
